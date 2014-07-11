@@ -3,7 +3,7 @@ snakeAndLadder
 
 
 
-
+```
 ---------------------------------------------------------------------------------------------------------
 | A new SnakeAndLadder game of board size 10 * 12 = 120 						|
 | Two player are there in this game Player One and Player Two 						|
@@ -302,3 +302,4 @@ Player One from current postion 56 rolled dice and Output is:4
 Player Two from current postion 114 rolled dice and Output is:6
 !!! Player Two won !!!
 
+```
