@@ -1,5 +1,12 @@
 package com.ideas.domain;
 
+/**
+ * 
+ * This class have been used for snake and ladder entities.
+ * 
+ * @author vk82286
+ *
+ */
 public class Transporter {
 	private int startPoint;
 	private int endPoint;
